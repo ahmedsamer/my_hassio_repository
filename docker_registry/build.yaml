@@ -1,0 +1,6 @@
+build_from: 
+  aarch64: registry:latest
+  amd64: registry:latest
+  armhf: registry:latest
+  armv7: registry:latest
+  i386: registry:latest
